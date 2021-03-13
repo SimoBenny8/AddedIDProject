@@ -6,8 +6,9 @@ public class HelloWorld {
 	 
 	 public static void main(String[] args) {
 		
-		 logger1.info("hello world!");
+		 logger1.info("ciao mondo!");
 
 	}
+
 
 }
